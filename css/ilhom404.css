@@ -16,6 +16,10 @@
     opacity: 0px;
 }
 
+.hero-img2 {
+    margin-top: 250px;
+}
+
 .hero-image2 {
     width: 196px;
     height: 280px;
@@ -23,7 +27,6 @@
     left: 572px;
     gap: 0px;
     opacity: 0px;
-    margin-top: 250px;
 }
 
 .hero-title {
